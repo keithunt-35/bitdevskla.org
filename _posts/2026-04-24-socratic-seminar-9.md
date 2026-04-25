@@ -17,11 +17,24 @@ John Babiiha (Acacia) Avenue, Kampala [Map](https://maps.app.goo.gl/nihbeLcgbeTz
 
 ### Agenda
 
-- How Digital Signatures Work in Bitcoin ("Dgital signatures") - [Keith](https://github.com/keithunt-35) — [Slides](https://docs.google.com/presentation/d/18QMU6pQ39w7JiK71pB6XsNgzCfEJjK-Od1-KibT_QRE/edit?usp=sharing)
+- How Digital Signatures Work in Bitcoin ("Digital Signatures") - [Keith](https://github.com/keithunt-35) — [Slides](https://docs.google.com/presentation/d/18QMU6pQ39w7JiK71pB6XsNgzCfEJjK-Od1-KibT_QRE/edit?usp=sharing)
 
 - BlueWallet: Reproducible Builds - [Ojok](https://github.com/ojokne)
 
 A special thank you to our sponsor [Btrust](http://btrust.tech/) 
+
+## Presentation Slides
+
+<div class="Slides-embed">
+  <iframe src="https://docs.google.com/presentation/d/18QMU6pQ39w7JiK71pB6XsNgzCfEJjK-Od1-KibT_QRE/embed?start=false&loop=false&delayms=3000"
+          title="Digital Signatures in Bitcoin – April 2026 BitDevs KLA"
+          allowfullscreen="true"
+          mozallowfullscreen="true"
+          webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+[Open slides in Google Slides](https://docs.google.com/presentation/d/18QMU6pQ39w7JiK71pB6XsNgzCfEJjK-Od1-KibT_QRE/edit?usp=sharing){:target="_blank" rel="noopener nofollow"}
 
 ## Events
 
