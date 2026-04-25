@@ -17,7 +17,7 @@ John Babiiha (Acacia) Avenue, Kampala [Map](https://maps.app.goo.gl/nihbeLcgbeTz
 
 ### Agenda
 
-- How Digital Signatures Work in Bitcoin - [Keith](https://github.com/keithunt-35)
+- How Digital Signatures Work in Bitcoin ("Dgital signatures") - [Keith](https://github.com/keithunt-35) — [Slides](https://docs.google.com/presentation/d/18QMU6pQ39w7JiK71pB6XsNgzCfEJjK-Od1-KibT_QRE/edit?usp=sharing)
 
 - BlueWallet: Reproducible Builds - [Ojok](https://github.com/ojokne)
 
